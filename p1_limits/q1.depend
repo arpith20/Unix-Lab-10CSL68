@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1360054584 source:/home/arpith/United/q1/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<limits.h>
+
+1360054584 source:/home/arpith/United/p1/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+	<limits.h>
+

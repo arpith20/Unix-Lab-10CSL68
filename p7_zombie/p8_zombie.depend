@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1363076266 source:/home/arpith/United/p8_zombie/main.cpp
+	<iostream>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+
