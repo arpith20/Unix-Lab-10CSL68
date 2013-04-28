@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1366027712 source:/home/arpith/United/lab/usp/p6_race/main.cpp
+	<iostream>
+	<stdio.h>
+	<sys/types.h>
+	<errno.h>
+	<unistd.h>
+	<stdlib.h>
+
